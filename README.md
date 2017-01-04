@@ -1,4 +1,4 @@
 # Useful Stuff (python)
 
-- Finding Primes
-- Manipulating lists
+#Finding Primes
+#Manipulating lists
