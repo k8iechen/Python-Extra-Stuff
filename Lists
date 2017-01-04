@@ -12,9 +12,10 @@ nums.pop() #removes the last element and returns it
 nums.sort() #sort the list
 nums.reverse() #reverses the list
 
-#additional stuff
+"""additional stuff
 list[2] = 3 #sets the element at index 2 to be 3
 del list[2] #removes the element at index 2
 len(list) #returns the length of list
 "value" in list #is true if "value" is an element in list
 "value" not in list #is true if "value" is not an element in list
+"""
