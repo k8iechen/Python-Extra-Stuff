@@ -1,0 +1,20 @@
+print "manipulating lists"
+
+nums = [3,4,5,6,8,0,1,3,5,6,7]
+print nums[0] #prints "3"
+print nums[3] #prints "6"
+print nums[-1] #prints "7"
+nums.append(5) #adds 5 to end of list
+nums.remove(7) #removes 7 from list
+nums.count(8) #counts the number of occurences of 8
+nums.index(4) #return the index of
+nums.pop() #removes the last element and returns it
+nums.sort() #sort the list
+nums.reverse() #reverses the list
+
+#additional stuff
+list[2] = 3 #sets the element at index 2 to be 3
+del list[2] #removes the element at index 2
+len(list) #returns the length of list
+"value" in list #is true if "value" is an element in list
+"value" not in list #is true if "value" is not an element in list
