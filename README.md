@@ -1,3 +1,4 @@
-# Useful-Functions
-(Python)
+# Useful Stuff (python)
+
 - Finding Primes
+- 
