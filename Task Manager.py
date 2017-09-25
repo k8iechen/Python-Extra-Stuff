@@ -1,5 +1,4 @@
-print "HACKcode Project"
-#C:\Users\Owner\Documents\ComSci\Python\HACKcode.py
+print "HACKcode 2017 @McMaster; Honourable Mentions"
 
 print "Example 1: Task Scheduler"
 def print_schedule():
